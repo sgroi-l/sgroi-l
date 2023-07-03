@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Laurie 🙆🏽‍♂️</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [WeatherWise](https://sgroi-l.github.io/apiProject/)
+- 🔭 I’m currently working on [Todo](https://github.com/fac28/laurie_matt_testing_todo)
 
 - 🌱 I’m currently learning **with Founders and Coders as part of FAC28 (Software Development Bootcamp).**
 
