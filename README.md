@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Laurie 🙆🏽‍♂️</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer, food grower and award winning allotmenteer</h3>
 
 - 🔭 I’m currently working on [Todo](https://github.com/fac28/laurie_matt_testing_todo)
 
