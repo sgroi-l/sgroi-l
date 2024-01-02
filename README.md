@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Laurie 🙆🏽‍♂️</h1>
 <h3 align="center">A passionate software developer, food grower and award winning allotmenteer</h3>
 
-- 🔭 I’m currently working on a [Todo react app](https://github.com/sgroi-l/reactTodo)
+- 🔭 I’m currently working on a personal website.
 
-- 🌱 I’m currently learning **with Founders and Coders as part of FAC28 (Software Development Bootcamp).**
+- 🌱 I’m currently learning all about [Drupal](https://www.drupal.org/)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/sgroi-l?tab=repositories)
 
