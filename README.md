@@ -5,9 +5,9 @@
   
 - 🔭 I’m currently working on a personal website.
 
-- 🌱 I’m currently learning all about [Drupal](https://www.drupal.org/)
+- 🌱 I’m learning all about [Drupal](https://www.drupal.org/)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/sgroi-l?tab=repositories)
+- 👨‍💻 Some of my projects are available [here](https://github.com/sgroi-l?tab=repositories)
 
 - 📝 Checkout my Founders and Coders learning journey [here](https://github.com/sgroi-l/FAC-Portfolio)
 
